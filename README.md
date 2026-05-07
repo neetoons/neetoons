@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nit.
+- 👋 Hi, I’m Neetoons.
 - Neetoons is my YouTube channel where I teach GTA:San Andreas servers developing in a C-like scripting language called Pawn and others languages.
 - 👀 I’m interested in full-stack developing and game scripting.
 - 👍 Don't be shy to ask me any question 
